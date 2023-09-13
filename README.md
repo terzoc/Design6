@@ -1,2 +1,2 @@
 # Corvin Terzo Design 6 Github Repository
-![Hello There!] (/hellothere.gif)
+![Hello There!] (hellothere.gif)
