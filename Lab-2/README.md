@@ -43,23 +43,23 @@ Enters new demo directory
 ![cat](cat.png)
 
 ## ```cp file file1```
-Copies `file` to `file1`
+Copies `file` to `file1`\
 ![cp](cp.png)
 
 ## ```mv file file2```
-Moves `file` to `file2`, effectively chaning the name of `file` to `file2`
+Moves `file` to `file2`, effectively chaning the name of `file` to `file2`\
 ![mv](mv.png)
 
 ## ```rm file2```
-Removes file2
+Removes file2\
 ![rm](rm.png)
 
 ## ```clear```
-Clears terminal history
+Clears terminal history\
 ![clear](clear.png)
 
 ## ```man uname```
-Opens up manual page for the uname comand
+Opens up manual page for the uname comand\
 ![man](man.png)
 
 ## ```uname```
