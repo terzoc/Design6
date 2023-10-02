@@ -30,7 +30,7 @@ etc...
 etc...
 
 ## ```mkdir```
-Makes new directory
+Makes new directory\
 ![mkdir](mkdir.png)
 
 ## ```cd demo```
